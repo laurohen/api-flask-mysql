@@ -12,3 +12,7 @@ In the project folder run:
  # Step-2
  
     # flask run
+    
+ # server access
+
+    # Running on http://127.0.0.1:5000/
