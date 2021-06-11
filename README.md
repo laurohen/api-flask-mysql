@@ -30,5 +30,10 @@ In the project folder run:
  # endpoint Put
  
  ![image](https://user-images.githubusercontent.com/30203949/121689173-b1b2ee00-ca9a-11eb-9ed2-ff94e4350597.png)
+ 
+ # endpoint Delete
+
+ ![image](https://user-images.githubusercontent.com/30203949/121689360-e32bb980-ca9a-11eb-8761-90113699da0d.png)
+
 
 
