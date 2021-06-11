@@ -27,3 +27,8 @@ In the project folder run:
 
 ![image](https://user-images.githubusercontent.com/30203949/121689010-816b4f80-ca9a-11eb-80f5-e2af88c24856.png)
 
+ # endpoint Put
+ 
+ ![image](https://user-images.githubusercontent.com/30203949/121689173-b1b2ee00-ca9a-11eb-9ed2-ff94e4350597.png)
+
+
